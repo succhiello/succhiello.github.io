@@ -1,0 +1,13 @@
+---
+layout: blog.hbs
+title: Metalsmithでブログを書く
+date: 2015-12-20
+---
+
+== {{title}}
+
+=== section0
+aaa
+
+=== section1
+bbb
